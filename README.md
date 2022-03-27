@@ -1,10 +1,6 @@
 Oii, Eu sou o Mateus Santos - Desenvouvedor de Sistemas
 
- - contate-me no Email: mateuspele2015@gmail.com
- - Hoje eu trabalho com Frond-end
- - Estudano JavaScript HTMl 5 e CSS 3 em https://www.devmedia.com.br/
- - Cursando bacharelado sistemas de informação
- - IFBA Instituto Federal de Educação, Ciência e Tecnologia da Bahia
+
 
 <div align="center">
   <a href="https://github.com/mateusdata">
