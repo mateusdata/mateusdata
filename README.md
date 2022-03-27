@@ -1,4 +1,4 @@
-## Oii, Eu sou o Mateus Santos - Desenvouvedor de Sistemas
+## Oi, Eu sou o Mateus Santos - Desenvouvedor de Sistemas
 
 <div align="center">
   <a href="https://github.com/mateusdata">
