@@ -1,4 +1,49 @@
 ## 👨‍💻 Hello, I'm Mateus Santos - Web and Mobile Developer
+## Olá, eu sou Mateus Santos 👋
+Desenvolvedor de software, criando soluções sólidas e inovadoras, com foco em colaboração para gerar impacto e resultados.💻
+
+🚀 Minhas principais competências são com as seguintes ferramentas para o desenvolvimento de aplicações Frontend, Backend e Testes, além de modelos de arquiteturas para organiação de diretórios.
+
+  #### Desenvolvimento Frontend <br>
+      > TypeScript, Next, React, React Native
+      > Tailwind
+      > ContextAPI e Zustand
+      > SSR, Axios e Postman
+      > Deployment
+   #### Desenvolvimento Backend <br>
+      > Nest js
+      > Express
+      > Fastfy
+      > Laravel
+      > Deployment
+  
+   #### Testes
+      > Jest e Cypress
+      > Unity, Integration, e2e
+      > TDD
+
+   #### Outros
+      > Clean Architecture
+      > Git, GitHub, Git Flow
+      > Scrum, Jira, Trello
+      > Design Thinking, Design Pattern, Design System, Modular Design
+
+   #### Estudando
+      > Api Gateway
+      > Micro Serviços
+      > Prometheus
+      > Grafana
+      > Inglês
+ 
+🚀 Com mais de 2 anos de experiência profissional nas tecnologias mencionadas, estou sempre em busca de aprimorar tanto minhas habilidades técnicas quanto as comportamentais, focando em crescimento constante e inovação.
+
+ #### 📧 Entre em contato comigo:
+      > 77 999703784
+      > mateuspele2015@gmail.com
+      > https://www.linkedin.com/in/mateusdata
+ 
+  ##
+  
 
 <div align="center">
   <a href="https://github.com/mateusdata">
