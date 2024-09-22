@@ -1,4 +1,3 @@
-## 👨‍💻 Hello, I'm Mateus Santos - Web and Mobile Developer
 ## Olá, eu sou Mateus Santos 👋
 Desenvolvedor de software, criando soluções sólidas e inovadoras, com foco em colaboração para gerar impacto e resultados.💻
 
