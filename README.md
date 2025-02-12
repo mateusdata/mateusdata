@@ -1,9 +1,9 @@
-## Olá, eu sou Mateus Santos 👋
-Desenvolvedor de software, criando soluções sólidas e inovadoras, com foco em colaboração para gerar impacto e resultados.💻
+## Hello, I'm Mateus Santos 👋
+Software developer, creating solid and innovative solutions, focusing on collaboration to generate impact and results.💻
 
-🚀 Minhas principais competências são com as seguintes ferramentas para o desenvolvimento de aplicações Frontend, Backend e Testes, além de modelos de arquiteturas para organiação de diretórios.
+🚀 My main skills include the following tools for Frontend, Backend, and Testing development, as well as architecture models for directory organization.
 
-  #### Desenvolvimento Frontend <br>
+#### Desenvolvimento Frontend <br>
       > TypeScript, Next, React, React Native
       > Tailwind
       > ContextAPI e Zustand
@@ -34,9 +34,9 @@ Desenvolvedor de software, criando soluções sólidas e inovadoras, com foco em
       > Grafana
       > Inglês
  
-🚀 Com mais de 2 anos de experiência profissional nas tecnologias mencionadas, estou sempre em busca de aprimorar tanto minhas habilidades técnicas quanto as comportamentais, focando em crescimento constante e inovação.
+🚀 With over 3 years of professional experience in the mentioned technologies, I am always seeking to improve both my technical and behavioral skills, focusing on continuous growth and innovation.
 
- #### 📧 Entre em contato comigo:
+ #### 📧 Contact me:
       > 77 999703784
       > mateuspele2015@gmail.com
       > https://www.linkedin.com/in/mateusdata
