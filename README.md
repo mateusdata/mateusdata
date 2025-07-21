@@ -1,73 +1,77 @@
-## Hello, I'm Mateus Santos 👋
-Software developer, creating solid and innovative solutions, focusing on collaboration to generate impact and results.💻
+# Hello, I'm Mateus Santos 👋
 
-🚀 My main skills include the following tools for Frontend, Backend, and Testing development, as well as architecture models for directory organization.
+I am a software developer with over 3 years of experience creating solid and innovative solutions, focused on collaboration to generate impact and real results. 💻
 
-#### Desenvolvimento Frontend <br>
-      > TypeScript, Next, React, React Native
-      > Tailwind
-      > ContextAPI e Zustand
-      > SSR, Axios e Postman
-      > Deployment
-   #### Desenvolvimento Backend <br>
-      > Nest js
-      > Express
-      > Fastfy
-      > Laravel
-      > Deployment
-  
-   #### Testes
-      > Jest e Cypress
-      > Unity, Integration, e2e
-      > TDD
+---
 
-   #### Outros
-      > Clean Architecture
-      > Git, GitHub, Git Flow
-      > Scrum, Jira, Trello
-      > Design Thinking, Design Pattern, Design System, Modular Design
+## Skills & Technologies
 
-   #### Estudando
-      > Api Gateway
-      > Micro Serviços
-      > Prometheus
-      > Grafana
-      > Inglês
- 
-🚀 With over 3 years of professional experience in the mentioned technologies, I am always seeking to improve both my technical and behavioral skills, focusing on continuous growth and innovation.
+### Frontend
+- TypeScript, Next.js, React, React Native  
+- Tailwind CSS  
+- ContextAPI, Zustand  
+- SSR, Axios, Postman  
+- Deployment
 
- #### 📧 Contact me:
-      > 77 999703784
-      > mateuspele2015@gmail.com
-      > https://www.linkedin.com/in/mateusdata
- 
-  ##
-  
+### Backend
+- NestJS, Express, Fastify  
+- Laravel  
+- Deployment
+
+### Testing
+- Jest, Cypress  
+- Unit, Integration, and E2E testing  
+- TDD
+
+### Other Skills
+- Clean Architecture  
+- Git, GitHub, Git Flow  
+- Scrum, Jira, Trello  
+- Design Thinking, Design Patterns, Design Systems, Modular Design
+
+### Currently Learning
+- API Gateway  
+- Microservices  
+- Prometheus, Grafana  
+- Improving English skills
+
+---
+
+## Contact
+
+📱 WhatsApp: [77 99970-3784](https://wa.me/5577999703784)  
+✉️ Email: [mateuspele2015@gmail.com](mailto:mateuspele2015@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/mateusdata](https://www.linkedin.com/in/mateusdata)  
+📸 Instagram: [@mateus.data](https://www.instagram.com/mateus.data/)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mateusdata">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdata&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mateusdata&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdata&layout=compact&langs_count=7&theme=dracula" />
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="mateus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="mateus-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-   <img align="center" alt="mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  
-</div>
-  
-  ## 
- 
+
+---
+
+## Technologies
+
 <div>
-  <a href="https://www.instagram.com/mateus.data/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:mateuspele2015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateusdata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/mateusdata/mateusdata/blob/output/github-contribution-grid-snake.svg)
- 
+  <img alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+  <img alt="TailwindCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img alt="NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg" />
+  <img alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+  <img alt="Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" />
+  <img alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" />
+  <img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+  <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+---
+
+Thanks for visiting! 🚀
