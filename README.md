@@ -19,12 +19,11 @@ Building solid and innovative solutions with focus on collaboration and real imp
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusdata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdata&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdata&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdata&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&card_width=495&hide=html"/>
 </div>
 
 <br>
