@@ -11,6 +11,7 @@
   <br><br>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=mateusdata&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=999&icon_color=58a6ff&bg_color=0d1117&hide=stars" height="165" alt="stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateusdata&theme=transparent&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=999" height="165" alt="streak" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusdata&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=999&bg_color=0d1117&hide=html,css" height="165" alt="languages" />
   </div>
   <br>
